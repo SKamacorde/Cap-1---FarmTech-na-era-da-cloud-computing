@@ -1,0 +1,19 @@
+,,Yield,Yield,Yield
+,,mean,median,count
+Cluster,Crop,,,
+0,"Cocoa, beans",8428.429,7985.0,14
+0,Oil palm fruit,175039.786,171677.0,14
+0,"Rice, paddy",31857.071,30870.5,14
+0,"Rubber, natural",7562.571,6959.5,14
+1,"Cocoa, beans",8806.0,8850.0,15
+1,Oil palm fruit,169028.333,169781.0,15
+1,"Rice, paddy",31279.067,29918.0,15
+1,"Rubber, natural",7861.133,6913.0,15
+2,"Cocoa, beans",9025.4,8848.0,5
+2,Oil palm fruit,183330.2,183004.0,5
+2,"Rice, paddy",30958.0,27694.0,5
+2,"Rubber, natural",7548.0,8002.0,5
+3,"Cocoa, beans",10245.4,10062.0,5
+3,Oil palm fruit,190750.0,190626.0,5
+3,"Rice, paddy",36382.4,37205.0,5
+3,"Rubber, natural",8727.6,8599.0,5

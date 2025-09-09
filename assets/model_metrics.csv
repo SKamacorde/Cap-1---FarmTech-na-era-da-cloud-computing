@@ -1,0 +1,6 @@
+Modelo,MAE,RMSE,R2
+Ridge Regression,55114.2228,63930.1015,-0.0536
+Lasso Regression,55423.3473,64515.5421,-0.073
+Linear Regression,55423.3485,64515.5449,-0.073
+Random Forest Regressor,72244.2234,85929.7845,-0.9036
+Gradient Boosting Regressor,75213.6949,91172.0654,-1.1429
