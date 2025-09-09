@@ -254,6 +254,9 @@ Cap 1 - FarmTech na era da cloud computing/
 └── requirements.txt
 ```
 ---
+## Git HUb
+-[Link_repositorio_Git_Hub]-(https://github.com/SKamacorde/Cap-1---FarmTech-na-era-da-cloud-computing)
+
 
 ## 📜 Licença
 Atividade acadêmica **Cap 1 – FarmTech na Era da Cloud Computing**, desenvolvida no âmbito da FIAP – Fase 5, para fins educacionais, com uso de **dados simulados**
