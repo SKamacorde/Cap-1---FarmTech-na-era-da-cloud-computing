@@ -254,7 +254,7 @@ Cap 1 - FarmTech na era da cloud computing/
 └── requirements.txt
 ```
 ---
-## Git HUb
+## Git Hub
 -[Link_repositorio_Git_Hub]-(https://github.com/SKamacorde/Cap-1---FarmTech-na-era-da-cloud-computing)
 
 
